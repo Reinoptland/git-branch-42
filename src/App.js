@@ -12,6 +12,9 @@ function App() {
           alt="logo"
         />
       </header>
+      <ol>
+        <li>Make a remote</li>
+      </ol>
     </div>
   );
 }

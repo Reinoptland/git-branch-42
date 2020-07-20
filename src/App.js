@@ -12,8 +12,16 @@ function App() {
           alt="logo"
         />
       </header>
+      <h2>Setup</h2>
       <ol>
         <li>Make a remote</li>
+        <li>Make a local repo</li>
+        <li>Add our remote</li>
+        <li>Push to master (once)</li>
+        <li>Checkout to development</li>
+        <li>Push to development</li>
+        <li>Make development the default branch</li>
+        <li>Make a feature branch</li>
       </ol>
     </div>
   );
